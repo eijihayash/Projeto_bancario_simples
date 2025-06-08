@@ -7,7 +7,7 @@ Projeto Educacional de um sistema bancário simples em Python que utiliza concei
 Este projeto foi desenvolvido e testado com Python 3.13.1
 
 ## Funcionalidades
-- Cadastro de cclientes.
+- Cadastro de clientes.
 - Criação de contas correntes e poupança.
 - Depósitos e saques com controle de saldo e limite especial.
 - Autentificação básico de clientes.
