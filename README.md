@@ -2,7 +2,7 @@
 
 Projeto Educacional de um sistema bancário simples em Python que utiliza conceitos de programação orientada a objetos para gerenciar clientes, contas correntes e poupança, saques e autetificação.
 
-# Versão do Python
+## Versão do Python
 
 Este projeto foi desenvolvido e testado com Python 3.13.1
 
